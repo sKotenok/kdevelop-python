@@ -1,0 +1,1 @@
+spek file to build kdev-python in fedora 20.
